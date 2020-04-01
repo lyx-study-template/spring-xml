@@ -5,11 +5,9 @@
 	xsi:schemaLocation="http://www.springframework.org/schema/beans
 						https://www.springframework.org/schema/beans/spring-beans.xsd">
 
-	<beans>
-		<bean id="stu" class="com.lyx.entity.Student">
-			<property name="name" value="李艳兴"/>
-			<property name="address" value="山东省"/>
-		</bean>
-	</beans>
+	<bean id="stu" class="com.lyx.entity.Student">
+		<property name="name" value="李艳兴"/>
+		<property name="address" value="山东省"/>
+	</bean>
 
 </beans>
