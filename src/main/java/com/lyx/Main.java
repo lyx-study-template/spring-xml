@@ -1,5 +1,6 @@
 package com.lyx;
 
+import com.lyx.entity.Student;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;
 
